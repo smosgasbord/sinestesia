@@ -127,6 +127,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  color:white;
 }
 
 /* Very light scaling for our illustration */
@@ -170,7 +171,7 @@ input {
 
 /* Subheading */
 h2 {
-  color: #2800FF;
+  color: white;
 }
 
 /* Interactive image */
