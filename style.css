@@ -211,3 +211,11 @@ main > img {
   width:100%;
   display:block;
 }
+
+.coverjotform {
+  background:black;
+  width:100%;
+  padding:20px;
+  transform:translate(-20px);
+  position:absolute;
+}
