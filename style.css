@@ -218,4 +218,5 @@ main > img {
   padding:20px;
   transform:translate(-20px);
   position:absolute;
+  display:none;
 }
