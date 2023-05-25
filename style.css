@@ -16,9 +16,9 @@ to this section's matching END comment to see page-specific styles.
 
 /* Our default values set as CSS variables */
 :root {
-  --color-bg: #69F7BE;
-  --color-text-main: #000000;
-  --color-primary: #FFFF00;
+  --color-bg: #000000;
+  --color-text-main: #ffffff;
+  --color-primary: white;
   --wrapper-height: 87vh;
   --image-max-width: 300px;
   --image-margin: 3rem;
@@ -131,13 +131,16 @@ body {
 
 /* Very light scaling for our illustration */
 .title {
-  color: #2800FF;
+  color: #C4FF00;
   font-family: HK Grotesk;
   font-style: normal;
   font-weight: bold;
-  font-size: 100px;
+  font-size: 40px;
   line-height: 105%;
   margin: 0;
+}
+.logo{
+  margin:10px;
 }
 
 /* Very light scaling for our illustration */
